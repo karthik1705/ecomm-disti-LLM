@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+distiLLM
 
 # Spyder project settings
 .spyderproject
